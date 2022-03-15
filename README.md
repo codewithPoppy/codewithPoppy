@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pOppY</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate React developer</h3>
 
 - 🔭 I’m currently developing **React/Next.js projects**
